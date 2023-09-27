@@ -64,7 +64,7 @@ body {
 }
 
 .hero-image {
-  max-width: 100%;  /* Maximum width to the container's width */
+  width: 100%;  /* Maximum width to the container's width */
   max-height: 100%;  /* Maximum height to the container's height */
   object-fit: contain;  /* Image will scale to maintain its aspect ratio while fitting within the box */
 }
