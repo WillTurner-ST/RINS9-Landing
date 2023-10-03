@@ -17,7 +17,7 @@ const Footer = () => {
         <a href="https://www.instagram.com/snapdragon_hemp/" className="cta-social-link"><FaInstagram/></a>
         <a href="https://www.linkedin.com/company/snapdragon-hemp/" className="cta-social-link"><FaLinkedinIn/></a>
       </div>
-      <p className="cta-copyright">© 2023 Snapdragon Hemp. All rights reserved.</p>
+      <p className="cta-copyright">© 2023 Snapdragon LLC. All rights reserved.</p>
     </div>
   );
 };
