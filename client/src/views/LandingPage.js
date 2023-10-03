@@ -10,13 +10,11 @@ const LandingPage = () => {
 
   return (
     <div className="App">
-
       <Hero/>
       <CTA/>
       <About/>
       <FAQ/>
       <Footer/>
-
     </div>
   )
 }
