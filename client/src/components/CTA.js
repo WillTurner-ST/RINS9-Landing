@@ -6,7 +6,7 @@ const CTA = () => {
     <div className="CalltoAction">
         <div className='TextCTA'>
         <p className='txt'>
-            Lightning Fast Elevation
+            Lightning-Fast Elevation
         </p>
         </div>
         <div className='bCTA'>
