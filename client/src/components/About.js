@@ -1,7 +1,7 @@
 import React from 'react'
-import Prod from '../assets/Images/prod.jpg'
-import Stacked from '../assets/Images/stacked.jpg'
-import Twisted from '../assets/Images/twisted.jpg'
+import Prod from '../assets/Images/prod.png'
+import Stacked from '../assets/Images/stacked.png'
+import Twisted from '../assets/Images/twisted.png'
 
 const About = () => {
   return (

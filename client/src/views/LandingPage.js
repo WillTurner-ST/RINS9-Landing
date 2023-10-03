@@ -7,6 +7,7 @@ import FAQ from '../components/FAQ';
 import Footer from '../components/Footer';
 
 const LandingPage = () => {
+
   return (
     <div className="App">
 
