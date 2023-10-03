@@ -9,7 +9,7 @@ const CTA = () => {
           Premium Hydration,
         </p>
         <p className='txt'>
-            Lab-Tested Elevation
+            Lighting Fast Elevation
         </p>
         </div>
         <div className='bCTA'>
