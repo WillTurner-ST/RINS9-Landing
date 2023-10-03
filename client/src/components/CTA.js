@@ -6,9 +6,6 @@ const CTA = () => {
     <div className="CalltoAction">
         <div className='TextCTA'>
         <p className='txt'>
-          Premium Hydration,
-        </p>
-        <p className='txt'>
             Lighting Fast Elevation
         </p>
         </div>
