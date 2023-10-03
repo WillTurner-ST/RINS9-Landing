@@ -13,7 +13,7 @@ const About = () => {
     </div>
     <div class="card">
         <img src={Stacked} alt="pic2"/>
-        <h3 className='About-H3'>LIGHTING-FAST EFFECTS</h3>
+        <h3 className='About-H3'>LIGHTNING-FAST EFFECTS</h3>
         <p className='About-p'>Cutting-edge RINS9 technology ensures rapid absorption, allowing you to feel the effects faster and more intensely. Say goodbye to waiting around and hello to instant elevation</p>
     </div>
     <div class="card">
