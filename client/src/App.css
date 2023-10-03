@@ -154,7 +154,7 @@ body {
 
 @media (max-width: 600px) {
   .txt {
-    font-size: 3.7rem; /* Set the minimum size for smaller screens */
+    font-size: 3rem;/* Set the minimum size for smaller screens */
   }
 }
 
