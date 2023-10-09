@@ -57,10 +57,11 @@ body {
 .hero {
   position: relative;
   width: 100%;
-  height: 90%; /* Make the hero fullscreen */
+  height: 50%; /* Make the hero fullscreen */
   display: flex; /* Align the image to the center */
   justify-content: center;
   align-items: flex-start;
+  border: 1px solid #fff;
 }
 
 .hero-image {
